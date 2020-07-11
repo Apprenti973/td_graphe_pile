@@ -7,7 +7,7 @@ from biparti import *
 
 G, H, I, J = {}, {}, {}, {}
 
-# graphe non biparti ===> 
+# graphe non biparti ===> https://drive.google.com/file/d/1Hki5Rg9qtRSAJNqR6u96T15_M2hH2UW6/view?usp=sharing
 G[0]  = [6, 7]
 G[1]  = [3, 8, 10]
 G[2]  = [7, 9]
@@ -20,7 +20,7 @@ G[8]  = [1, 7, 9, 10]
 G[9]  = [2, 8]
 G[10] = [1, 5, 8]
 
-# graphe non biparti
+# graphe non biparti ===> https://drive.google.com/file/d/1EU508ySccDgaRsTaMAiV-wfmmqqv5i2Q/view?usp=sharing
 H[0]  = [1, 4, 5, 7]
 H[1]  = [0, 2, 3, 4]
 H[2]  = [1, 4]
@@ -35,7 +35,7 @@ H[10] = [5, 7, 8]
 H[11] = [7]
 H[12] = [8]
 
-# graphe non biparti
+# graphe non biparti ===> https://drive.google.com/file/d/1SDzc8uznY09_lsQNxIBrBcys52Cq-WfF/view?usp=sharing
 I['A'] = ['B', 'D']
 I['B'] = ['A', 'E', 'F', 'H']
 I['C'] = ['D', 'E']
